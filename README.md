@@ -10,7 +10,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-testimonials-using-css-grid-EtwpyEZSJ9
 - Live Site URL: https://fahrgast.github.io/Testimonials---Grid-practice/
 
 ## My process
